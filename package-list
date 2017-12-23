@@ -22,6 +22,7 @@ com.kongkongye.spigotplugin.menu.hook.scoreboard
 com.kongkongye.spigotplugin.menu.hook.vault
 com.kongkongye.spigotplugin.menu.lang
 com.kongkongye.spigotplugin.menu.menus
+com.kongkongye.spigotplugin.menu.menus.confirm
 com.kongkongye.spigotplugin.menu.menus.guide
 com.kongkongye.spigotplugin.menu.menus.main
 com.kongkongye.spigotplugin.menu.model
